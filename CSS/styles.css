@@ -1,0 +1,169 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Orbitron:wght@400..900&display=swap'); */
+*{
+     font-family: 'Inter', sans-serif;
+    /* font-family: Orbitron; */
+}
+.navbar{ 
+    background-color: #EA5217;
+    position: fixed;
+    width: 100%;
+        z-index: 999;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.stp{
+    font-weight: 600; 
+    color:#FFB26C !important;
+}
+.stp:hover{
+    color: #EA5217;
+}
+.imgw{
+    width: 40px !important;
+
+}
+.ds{
+    display: inline-block;
+    color: #FEC18A;
+}
+.hero{
+    position: relative;
+}
+.main{
+    text-align: center;
+    /* margin-top: 130px; */
+    font-weight: 600;
+    font-size: 48px;
+    color: #EA5217 !important;
+}
+.createbg{
+    background-color: none;
+    height: 90vh;
+}
+.xt{
+    color: #EA5217;
+}
+.test{
+    color: #EA5217;
+}
+.btnx{
+    background-color: #EA5217;
+}
+.btns{
+    border-color: #EA5217;
+    color: #EA5217;
+}
+.btnx:hover{
+    background-color: #EA5217; 
+}
+
+.btns:hover{
+    color: white !important;
+    background-color: #EA5217;
+}
+.qsq{
+    text-decoration: none;
+    color: #EA5217;
+}
+.plenty{
+    text-align: center;
+    color: #EA5217;
+    text-decoration: underline;
+}
+.qsq:hover{
+    color: white;
+}
+.ksk{
+    text-decoration: none;
+    color: white;
+}
+.ksk:hover{
+    color: white;
+}
+.main-head{
+    max-width: 200px;
+    margin-top: 120px;
+
+}
+
+
+p{
+    font-weight: 500;
+}
+.symph{
+    color: #EA5217;
+/* background-color: aqua;
+width: 140px;
+background-position: center; */
+}
+.quick{
+    width: fit-content;
+}
+.tester{
+    display: none;
+}
+.res{
+    margin-top: 30px;
+    background-color: #EA5217;
+    color: white !important;
+    text-align: center;
+}
+.textt{
+    text-align: center;
+    color: #EA5217;
+}
+.aye{
+    text-align: center;
+    color: #EA5217;
+    text-decoration: underline;
+}
+.roadmap{
+    margin-top: 60px;
+}
+.final{
+    text-align: center;
+    background-color: #EA5217;
+    color: white !important;
+}
+.fix{
+    margin-bottom: 0px;
+}
+
+@media (max-width: 840px) {
+    .tester{
+        display: block;
+    }
+    .test{
+        display: none !important;
+    }
+    .main{
+        font-size: 25px !important;
+    }
+    .createbg{
+        height: 85vh;
+    }
+    p{
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .stp{
+        font-weight: 400;
+    }
+    .res{
+        margin-top: 10px;
+        font-size: 10px;
+        background-color: #FFB26C;
+        color: white !important;
+        text-align: center;
+    }
+    .bs{
+        margin-top: 20px !important;
+    }
+    .card{
+        height: 30rem !important;
+    }
+
+}
