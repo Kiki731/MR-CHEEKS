@@ -5,7 +5,7 @@
     /* font-family: Orbitron; */
 }
 .navbar{ 
-    background-color: #EA5217;
+    background-color: #FA6752;
     position: fixed;
     width: 100%;
         z-index: 999;
@@ -16,10 +16,10 @@ html{
 
 .stp{
     font-weight: 600; 
-    color:#FFB26C !important;
+    color:#ffffff !important;
 }
 .stp:hover{
-    color: #EA5217;
+    color: #FA6752;
 }
 .imgw{
     width: 40px !important;
@@ -37,40 +37,40 @@ html{
     /* margin-top: 130px; */
     font-weight: 600;
     font-size: 48px;
-    color: #EA5217 !important;
+    color: #FA6752 !important;
 }
 .createbg{
     background-color: none;
     height: 90vh;
 }
 .xt{
-    color: #EA5217;
+    color: #FA6752;
 }
 .test{
-    color: #EA5217;
+    color: #FA6752;
 }
 .btnx{
-    background-color: #EA5217;
+    background-color: #FA6752;
 }
 .btns{
-    border-color: #EA5217;
-    color: #EA5217;
+    border-color: #FA6752;
+    color: #FA6752;
 }
 .btnx:hover{
-    background-color: #EA5217; 
+    background-color: #FA6752; 
 }
 
 .btns:hover{
     color: white !important;
-    background-color: #EA5217;
+    background-color: #FA6752;
 }
 .qsq{
     text-decoration: none;
-    color: #EA5217;
+    color: #FA6752;
 }
 .plenty{
     text-align: center;
-    color: #EA5217;
+    color: #FA6752;
     text-decoration: underline;
 }
 .qsq:hover{
@@ -94,7 +94,7 @@ p{
     font-weight: 500;
 }
 .symph{
-    color: #EA5217;
+    color: #FA6752;
 /* background-color: aqua;
 width: 140px;
 background-position: center; */
@@ -107,17 +107,17 @@ background-position: center; */
 }
 .res{
     margin-top: 30px;
-    background-color: #EA5217;
+    background-color: #FA6752;
     color: white !important;
     text-align: center;
 }
 .textt{
     text-align: center;
-    color: #EA5217;
+    color: #FA6752;
 }
 .aye{
     text-align: center;
-    color: #EA5217;
+    color: #FA6752;
     text-decoration: underline;
 }
 .roadmap{
@@ -125,7 +125,7 @@ background-position: center; */
 }
 .final{
     text-align: center;
-    background-color: #EA5217;
+    background-color: #FA6752;
     color: white !important;
 }
 .fix{
